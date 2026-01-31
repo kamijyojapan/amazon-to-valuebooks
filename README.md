@@ -56,7 +56,7 @@ Amazon.co.jp の書籍ページを開いた際に、古本買取・販売サイ�
 | **在庫切れ** | ⚪ 灰 | `📖 バリューブックス：現在在庫切れ` | 
 | **ヒットなし** | 🔵 青 | `🔍 バリューブックス検索: [入力欄]` | 
 
-<img width="2396" height="1230" alt="image" src="https://github.com/user-attachments/assets/0c1e63f3-d871-4aaa-ba90-386f060deab7" />
+<img width="1740" height="1232" alt="image" src="https://github.com/user-attachments/assets/7b6ff4fd-f5c5-4c8c-8259-86c8f4b5fee7" />
 
 ## 🛠 技術的な仕組み
 
